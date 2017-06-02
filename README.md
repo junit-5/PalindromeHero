@@ -5,7 +5,7 @@
     
     b) Run the tests. One test should fail.
     
-    c) Add an error message to your failing test, e.g. `“isPalindrome should return 'true'."`.
+    c) Add an error message to your failing test, e.g. `"isPalindrome should return 'true'."`.
     
     d) Implement isPalindrome with the following rules:
 
