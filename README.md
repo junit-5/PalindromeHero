@@ -46,7 +46,7 @@
 
 5.	TestFactory/DynamicTests (aka shit just got real)
 
-    a)	Read the file `palindrome.txt`. Do this during the `@BeforeAll` method implemented earlier.
+    a)	Read the file `palindromes.txt`. Do this during the `@BeforeAll` method implemented earlier.
     
     b)	Add a method to your Testclass annotated with `@TestFactory` and the return type `List<DynamicTest>`.
     
@@ -56,7 +56,7 @@
     
     e)	Return a list of DynamicTests.
     
-    f)	Run the Testclass. Junit 5 manages the rest for. At runtime it’ll generate tests dynamically, depending on your content in `palindrome.txt`. The tests will display nicely in your test report.
+    f)	Run the Testclass. Junit 5 manages the rest for. At runtime it’ll generate tests dynamically, depending on your content in `palindromes.txt`. The tests will display nicely in your test report.
     
     g)	Try adding entries to the textfile and rerun the Testclass. The new entries should generate new Tests.
     
