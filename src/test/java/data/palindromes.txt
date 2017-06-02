@@ -1,0 +1,4 @@
+haha false
+otto true
+hannah true
+batman false
