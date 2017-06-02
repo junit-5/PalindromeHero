@@ -71,7 +71,7 @@
        -	If `length < 1` throw an `IllegalArgumentException`
        -	For any other length, generate a valid palindrome with the given length using lower case alphabet `[a-z]` only.
        
-    b.	Did you notice something? You just wrote the code before writing tests. FeelsBadMan. But don’t worry. This way you have a better understanding of what you need to test.
+    b.	Did you notice something? You just wrote the code before writing tests. :cry:. But don’t worry. This way you have a better understanding of what you need to test.
     
     c.	Use this description to structure your Behavior Driven Tests. Make use of `@Nested`, `@DisplayName` and `@Test`.
     
